@@ -7,7 +7,7 @@ Contents
   doubleplotmatrix.py:  a script to draw two comparison matrix into half-half rectangle heatmap
 
 
-Usage
+Usage:
 
   python pidMatDraw.py [tab-formatted alinged sequences] (options)
 
@@ -33,7 +33,7 @@ Recommendation for preparation of input file
     seqkit fx2tab multifasta_aligned.fasta > multifasta_aligned.tab
 
 
-options
+options:
 
   -o (--out) [output_prefix] : specify output prefix (dafault:none)
   
