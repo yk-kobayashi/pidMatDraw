@@ -3,8 +3,8 @@ Python scripts to calculate pairwise similarity (% identity) from multiple align
 
 Contents
 
-    pidMatDraw.py:  main script to calculate pairwise identity and draw matrix as triangle heatmap image
-    doubleplotmatrix.py:  a script to draw two comparison matrix into half-half rectangle heatmap
+ pidMatDraw.py:  main script to calculate pairwise identity and draw matrix as triangle heatmap image
+ doubleplotmatrix.py:  a script to draw two comparison matrix into half-half rectangle heatmap
 
 
 Usage
