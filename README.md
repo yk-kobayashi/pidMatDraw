@@ -9,7 +9,7 @@ Contents
 
 Usage:
 
-  python pidMatDraw.py [tab-formatted alinged sequences] (options)
+    python pidMatDraw.py [tab-formatted alinged sequences] (options)
 
 
 Dependent packages
@@ -35,9 +35,9 @@ Recommendation for preparation of input file
 
 options:
 
-  -o (--out) [output_prefix] : specify output prefix (dafault:none)
+    -o (--out) [output_prefix] : specify output prefix (dafault:none)
   
-  -v (--withvalue) : print values into heatmap (default:no)
+    -v (--withvalue) : print values into heatmap (default:no)
   
-  -s (--square) : make heatmap cells square
+    -s (--square) : make heatmap cells square
 
